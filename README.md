@@ -1,2 +1,3 @@
 # git_test
-Probando pruebas que testean o algo
+My actual second Github repo!
+Hello Odin!  Go
